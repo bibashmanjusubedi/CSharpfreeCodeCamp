@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj": {}
+    "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj": {
+    "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+        "projectPath": "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\obj\\",
+        "outputPath": "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\cp3\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

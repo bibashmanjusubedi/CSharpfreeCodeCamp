@@ -287,16 +287,18 @@ do
 
         case "3":
             // Ensure animal ages and physical descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+            // Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            // Console.WriteLine("Press the Enter key to continue.");
+            // readResult = Console.ReadLine();
+            // To Do Task 1 - Today
             break;
 
         case "4":
             // Ensure animal nicknames and personality descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+            // Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            // Console.WriteLine("Press the Enter key to continue.");
+            // readResult = Console.ReadLine();
+            // To Do Task 2 - Today
             break;
 
         case "5":
