@@ -185,7 +185,7 @@ do
                                 Console.Write($"\r{new String(' ', Console.BufferWidth)}");
                             }
 
-                            if (dogDescription.Contains(" " + term.Trim() + " "))
+                            if (dogDescription.Contains(term.Trim()))
                             {
                                 Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match for: {term.Trim()}!");
                                 matchesCurrentDog = true;
