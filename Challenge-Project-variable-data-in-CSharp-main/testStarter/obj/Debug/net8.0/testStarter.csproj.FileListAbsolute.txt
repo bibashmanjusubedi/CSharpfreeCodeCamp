@@ -1,0 +1,15 @@
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\bin\Debug\net8.0\testStarter.exe
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\bin\Debug\net8.0\testStarter.deps.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\bin\Debug\net8.0\testStarter.runtimeconfig.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\bin\Debug\net8.0\testStarter.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\bin\Debug\net8.0\testStarter.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.AssemblyInfoInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.AssemblyInfo.cs
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.csproj.CoreCompileInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.sourcelink.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\refint\testStarter.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\testStarter.genruntimeconfig.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Challenge-Project-variable-data-in-CSharp-main\testStarter\obj\Debug\net8.0\ref\testStarter.dll
