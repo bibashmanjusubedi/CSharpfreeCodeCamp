@@ -1,0 +1,15 @@
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\bin\Debug\net8.0\LINQ Query.exe
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\bin\Debug\net8.0\LINQ Query.deps.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\bin\Debug\net8.0\LINQ Query.runtimeconfig.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\bin\Debug\net8.0\LINQ Query.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\bin\Debug\net8.0\LINQ Query.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.AssemblyInfoInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.AssemblyInfo.cs
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.csproj.CoreCompileInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.sourcelink.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\refint\LINQ Query.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\LINQ Query.genruntimeconfig.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\LINQ Query\obj\Debug\net8.0\ref\LINQ Query.dll
