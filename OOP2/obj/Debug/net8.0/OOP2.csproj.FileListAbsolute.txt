@@ -1,0 +1,15 @@
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\bin\Debug\net8.0\OOP2.exe
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\bin\Debug\net8.0\OOP2.deps.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\bin\Debug\net8.0\OOP2.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\bin\Debug\net8.0\OOP2.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.sourcelink.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\refint\OOP2.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\OOP2\obj\Debug\net8.0\ref\OOP2.dll
