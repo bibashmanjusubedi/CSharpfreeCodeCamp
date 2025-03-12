@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "edyY0NxBweI=",
+  "success": true,
+  "projectFilePath": "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\ChallengeProjectMiniGame\\Challenge-project-Create-methods-in-CSharp-main\\testStarter\\testStarter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
