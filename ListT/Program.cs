@@ -49,14 +49,41 @@
 
 
 
-var numbers = new List<int> {45,56,99,48,67,78};
+// var numbers = new List<int> {45,56,99,48,67,78};
 
-Console.WriteLine($"I found 99 at index {numbers.IndexOf(99)}");
-numbers.Sort();
-Console.WriteLine($"I found 99 at index {numbers.IndexOf(99)}");
+// Console.WriteLine($"I found 99 at index {numbers.IndexOf(99)}");
+// numbers.Sort();
+// Console.WriteLine($"I found 99 at index {numbers.IndexOf(99)}");
 
 
 // foreach(var number in numbers)
 // {
 //     Console.WriteLine($"{number}");
 // }
+
+
+// Specify the data source.
+List<int> scores = [97, 92, 81, 60];
+
+
+// for (int i = 0;i<scores.Count;i++)
+// {
+//     if(scores[i] > 80)
+//     {
+//         Console.WriteLine($"Found a score over 80 {scores[i]}");
+//     }
+// }
+
+// Define the query expression.
+IEnumerable<int> scoreQuery =
+    from score in scores
+    where score > 80
+    select score;
+
+// Execute the query.
+foreach (var i in scoreQuery)
+{
+    Console.Write(i + " ");
+}
+
+// Output: 97 92 81
