@@ -31,8 +31,19 @@ while (!shouldExit)
     {
         Console.Clear();
         Console.WriteLine("Console was resized. Program exiting");
+        shouldExit = true;
     }
-    Move();
+    else
+    {
+        Move();
+        if (GotFood())
+        {
+            ChangePlayer();
+            ShowFood();
+        }
+
+    }
+    
 }
 
 // Returns true if the Terminal was resized 
@@ -54,6 +65,11 @@ void ShowFood()
     // Display the food at the location
     Console.SetCursorPosition(foodX, foodY);
     Console.Write(foods[food]);
+}
+
+bool GotFood()
+{
+    return playerX == foodX && playerY == foodY;
 }
 
 // Changes the player to match the food consumed
