@@ -35,12 +35,33 @@ while (!shouldExit)
     }
     else
     {
-        Move();
+        // Move();
+
+
+        
+
+        if(PlayerIsSick())
+        {
+            FreezePlayer();
+            Move(1,false);
+        }
+        else if(PlayerIsFaster())
+        {
+            Move(3,false);
+        }
+        else
+        {
+            Move(1,false);
+        }
+
+
         if (GotFood())
         {
             ChangePlayer();
             ShowFood();
         }
+
+       
 
     }
     
@@ -72,6 +93,22 @@ bool GotFood()
     return playerX == foodX && playerY == foodY;
 }
 
+bool PlayerIsSick()
+{
+    return player == states[2];
+}
+
+// void FreezePlayer()
+// {
+//     System.Threading.Thread.Sleep(1000);
+//     player = states[0];
+// }
+
+bool PlayerIsFaster()
+{
+    return player == states[1];
+}
+
 // Changes the player to match the food consumed
 void ChangePlayer() 
 {
@@ -89,7 +126,7 @@ void FreezePlayer()
 
 // Reads directional input from the Console and moves the player
 // void Move()
-void Move(bool otherKeysExit = false) 
+void Move(int speed = 1,bool otherKeysExit = false) 
 {
     int lastX = playerX;
     int lastY = playerY;
@@ -103,10 +140,10 @@ void Move(bool otherKeysExit = false)
             playerY++; 
             break;
 		case ConsoleKey.LeftArrow:  
-            playerX--; 
+            playerX -= speed; 
             break;
 		case ConsoleKey.RightArrow: 
-            playerX++; 
+            playerX += speed; 
             break;
 		case ConsoleKey.Escape:     
             shouldExit = true; 
