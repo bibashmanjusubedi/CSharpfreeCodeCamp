@@ -13,8 +13,9 @@ foreach (var name in names)
 
 
 var names2 = new List<string> {"Scott","Ana","Felipe"};
-names2.Add("Charles");
-names2.Add("Darwin");
+names2.Add("David"); // for adding item in a list
+names2.Add("Damian");
+names2.Add("Maria");
 for(int i=0;i<names2.Count;i++)
 {
     Console.WriteLine($"Hello {names2[i].ToUpper()!}");
@@ -24,3 +25,27 @@ foreach(var name2 in names2)
 {
     Console.WriteLine($"Hello {name2.ToUpper()!}");
 }
+
+Console.WriteLine(names2[0]);
+Console.WriteLine(names2[2]);
+Console.WriteLine(names2[1]);
+Console.WriteLine(names2[5]);
+Console.WriteLine(names2[names2.Count-1]);
+Console.WriteLine(names2[^2]);
+
+
+foreach(var name2 in names2[2..4])
+{
+    Console.WriteLine($"Hello {name2.ToUpper()!}");
+}
+
+
+var naams = new string[] {"Scott", "Ana", "Felipe"};
+naams = [..naams,"Damian"];
+foreach (var naam in naams)
+{
+    Console.WriteLine($"Hello {naam.ToUpper()}");
+}
+
+
+
