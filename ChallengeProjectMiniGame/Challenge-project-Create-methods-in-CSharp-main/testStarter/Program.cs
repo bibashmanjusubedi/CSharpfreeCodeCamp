@@ -72,8 +72,8 @@ void FreezePlayer()
 }
 
 // Reads directional input from the Console and moves the player
-void Move(bool otherKeysExit = true)
-//void Move() 
+// void Move()
+void Move(bool otherKeysExit = false) 
 {
     int lastX = playerX;
     int lastY = playerY;
