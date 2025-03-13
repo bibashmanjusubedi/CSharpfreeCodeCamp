@@ -72,8 +72,8 @@ void FreezePlayer()
 }
 
 // Reads directional input from the Console and moves the player
-//  void Move(bool otherKeysExit = false)
-void Move() 
+void Move(bool otherKeysExit = true)
+//void Move() 
 {
     int lastX = playerX;
     int lastY = playerY;
@@ -95,8 +95,9 @@ void Move()
 		case ConsoleKey.Escape:     
             shouldExit = true; 
             break;
-        // default:
-        //     shouldExit = otherKeysExit;
+        default:
+            shouldExit = otherKeysExit;
+            break;
     }
 
     // Clear the characters at the previous position
