@@ -1,0 +1,15 @@
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.AssemblyInfoInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.AssemblyInfo.cs
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.csproj.CoreCompileInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.sourcelink.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\bin\Debug\net8.0\ListT.exe
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\bin\Debug\net8.0\ListT.deps.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\bin\Debug\net8.0\ListT.runtimeconfig.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\bin\Debug\net8.0\ListT.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\bin\Debug\net8.0\ListT.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\refint\ListT.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ListT.genruntimeconfig.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\ListT\obj\Debug\net8.0\ref\ListT.dll
