@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
-/* 
+﻿/* 
 This code uses a names array and corresponding methods to display
 greeting messages
 */
@@ -16,8 +14,9 @@ foreach (string name in names)
     else if (name == "Andrew")
         messageText = AndrewMessage();
     else if (name == "AllGreetings")
-        messageText = SophiaMessage();
-        messageText = messageText + "\n\r" + AndrewMessage();
+        // messageText = SophiaMessage();
+        // messageText = messageText + "\n\r" + AndrewMessage();
+        messageText = SophiaMessage() + "\n\r" + AndrewMessage();
 
     Console.WriteLine(messageText + "\n\r");
 }
@@ -34,3 +33,6 @@ static string AndrewMessage()
 {
     return "Hi, my name is Andrew. Good to meet you.";
 }
+
+// See https://aka.ms/new-console-template for more information
+// Console.WriteLine("Hello, World!");
