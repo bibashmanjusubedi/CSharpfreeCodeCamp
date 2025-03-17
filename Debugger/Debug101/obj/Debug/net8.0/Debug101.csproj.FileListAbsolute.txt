@@ -1,0 +1,15 @@
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\bin\Debug\net8.0\Debug101.exe
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\bin\Debug\net8.0\Debug101.deps.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\bin\Debug\net8.0\Debug101.runtimeconfig.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\bin\Debug\net8.0\Debug101.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\bin\Debug\net8.0\Debug101.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfoInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfo.cs
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.csproj.CoreCompileInputs.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.sourcelink.json
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\refint\Debug101.dll
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.pdb
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\Debug101.genruntimeconfig.cache
+E:\C#(ASP.NET)\CSharpfreeCodeCamp\Debugger\Debug101\obj\Debug\net8.0\ref\Debug101.dll
