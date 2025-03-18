@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj": {}
+    "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj": {}
   },
   "projects": {
-    "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj": {
+    "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj",
+        "projectUniqueName": "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj",
         "projectName": "Debug101",
-        "projectPath": "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj",
+        "projectPath": "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\Debug101.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "E:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\obj\\",
+        "outputPath": "e:\\C#(ASP.NET)\\CSharpfreeCodeCamp\\Debugger\\Debug101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
